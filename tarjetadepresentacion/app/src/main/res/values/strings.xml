@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tarjeta de presentasion</string>
+    <string name="nombre">Sheila Cazorla Rodríguez</string>
+    <string name="titulo">Estudiante de Ingeniería Informática</string>
+    <string name="telefono">+34 629 624 969</string>
+    <string name="mail">sheilacazorla124@gmail.com</string>
+    <string name="github">/@sheilacazrod</string>
+</resources>
