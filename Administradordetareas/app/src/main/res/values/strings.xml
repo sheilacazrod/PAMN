@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Administrador de tareas</string>
+    <string name="completado">All tasks completed</string>
+    <string name="buen_trabajo">All tasks completed</string>
+</resources>
